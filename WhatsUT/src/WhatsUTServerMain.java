@@ -19,7 +19,6 @@ public class WhatsUTServerMain {
             Naming.rebind("WhatsUTServer", server);
             System.out.println("WhatsUT Server is running...");
             System.out.println("erikc ");
-            System.out.println("penisbemcomprido");
         } catch (Exception e) {
             e.printStackTrace();
         }
